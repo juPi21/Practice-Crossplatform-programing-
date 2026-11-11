@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice-Crossplatform-programing-.iml" filepath="$PROJECT_DIR$/Practice-Crossplatform-programing-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parctice-3/parctice-3.iml" filepath="$PROJECT_DIR$/parctice-3/parctice-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-4/practice-4.iml" filepath="$PROJECT_DIR$/practice-4/practice-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-5/practice-5.iml" filepath="$PROJECT_DIR$/practice-5/practice-5.iml" />
+    </modules>
+  </component>
+</project>
